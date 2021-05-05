@@ -6,3 +6,8 @@ Why I decided to put this work in the internet is that, if you know the prime nu
 it may create a trouble when you have a collection for it. 
 
 And may be this could help you do some tinkering and help you find efficiencies of your program, or algorithm. Who knows!
+
+## Releases
+```text
+May2021: First 50M primes Gun Zipped 
+```

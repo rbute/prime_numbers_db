@@ -367,4 +367,5 @@ pip-selfcheck.json
 
 *.tar.gz
 /prime_db/
+.idea
 
